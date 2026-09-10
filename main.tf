@@ -5,8 +5,8 @@ resource "azurerm_resource_group" "rg_chintu1"{
 }
 
 # 2. Resource Group
-resource "azurerm_resource_group" "rg_vjit1"{
-  name     = "rg_vijit1"
+resource "azurerm_resource_group" "rg_vjit2"{
+  name     = "rg_vijit2"
   location = "central india"
 }
 
